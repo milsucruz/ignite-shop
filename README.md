@@ -1,5 +1,5 @@
 ![Cover (1)](https://github.com/milsucruz/ignite-shop/assets/103121417/dce40b73-62d0-4bbd-abbc-0ed4683ac577)
-> Status: Em desenvolvimento ⚠️
+> Status: Concluído 🚀
 
 > ## Sobre 📖
 > 
@@ -17,6 +17,10 @@
 > [Stitches](https://stitches.dev/)
 >
 > [Keen-slider](https://keen-slider.io/)
+>
+> [Stripe](https://stripe.com/docs)
+>
+> [Axios](https://axios-http.com/)
 
 
 > ## Como executar ⚙️
